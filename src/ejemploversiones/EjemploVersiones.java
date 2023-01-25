@@ -15,7 +15,7 @@ public class EjemploVersiones {
      */
     public static void main(String[] args) {
         System.out.println("Miercoles 25");
-              
+              System.out.println("importante primera etiquiet");
     }
     
 }
